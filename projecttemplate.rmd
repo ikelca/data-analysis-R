@@ -3,7 +3,7 @@ output:
   html_document: default
   pdf_document: default
 ---
-Red Wine Quality Exploration by Chao Jiang
+Red Wine Quality Exploration by Kelvin
 ========================================================
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, packages}
